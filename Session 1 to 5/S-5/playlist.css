@@ -1,0 +1,17 @@
+.playlist-item{
+
+    background-color:#222;
+    color:white;
+    padding:15px;
+    margin:10px;
+    border-radius:8px;
+
+}
+
+#playing{
+
+    background-color:#1DB954;
+    color:white;
+    font-weight:bold;
+
+}
