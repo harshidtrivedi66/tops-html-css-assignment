@@ -1,0 +1,23 @@
+body{
+
+    font-family: Arial;
+
+}
+
+.container{
+
+    display:flex;
+
+    justify-content:space-evenly;
+
+    margin-top:50px;
+
+}
+
+img{
+
+    width:100px;
+
+    height:100px;
+
+}
